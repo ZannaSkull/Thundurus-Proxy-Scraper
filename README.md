@@ -4,8 +4,6 @@
 <img src="https://www.pngplay.com/wp-content/uploads/12/Thundurus-Pokemon-Free-PNG.png", width="500", height="500">
 </p>
 
-Valery WebHook Spammer is a powerful tool for spamming webhooks that allows you to send repeated messages to a specific webhook with a customizable time interval.
-
 ## Features
 
 - **Proxy Scraping**: Thundurus utilizes web scraping techniques to retrieve proxy servers from a wide range of sources.
