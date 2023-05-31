@@ -4,6 +4,8 @@
 <img src="https://www.pngplay.com/wp-content/uploads/12/Thundurus-Pokemon-Free-PNG.png", width="500", height="500">
 </p>
 
+Thundurus is a powerful Python program designed to scrape, filter, and manage proxy servers from various sources. It leverages asynchronous programming with asyncio and offers an intuitive command-line interface for ease of use. With Thundurus, you can quickly obtain reliable proxies and customize the filtering based on your specific requirements.
+
 ## Features
 
 - **Proxy Scraping**: Thundurus utilizes web scraping techniques to retrieve proxy servers from a wide range of sources.
