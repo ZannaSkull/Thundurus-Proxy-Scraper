@@ -21,7 +21,7 @@ Thundurus is a powerful Python program designed to scrape, filter, and manage pr
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/thundurus.git
+   git clone https://github.com/ZannaSkull/Thundurus-Proxy-Scraper/tree/main
    
    Install the required dependencies:
    pip install -r requirements.txt
