@@ -1,0 +1,8 @@
+colorama
+pypresence
+plyer
+bs4
+requests
+asyncio
+ctype
+httpx
